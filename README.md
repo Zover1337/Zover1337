@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-I am a developer from Russia with a focus on Backend Engineering and Systems Administration.
-
-❤️ My best helper: ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+I am a developer from Moscow (Russia) with a focus on Backend Engineering and Systems Administration.
 
 ## 🛠 Skills
 - **Backend:** Python (Junior/Middle), C++ (Beginner)
