@@ -16,3 +16,5 @@ I am a developer from Russia with a focus on Backend Engineering and Systems Adm
 ## 📫 Let's Connect
 - **Telegram:** [@web3transaction](https://t.me/web3transaction)
 - **Instagram:** [zoverdev](https://instagram.com/zoverdev)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=Xray+.+.+.+connected)](https://git.io/typing-svg)
