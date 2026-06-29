@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Zover1337/Zover1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer with a focus on Backend Engineering and Systems Administration.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Backend:** Python (Junior/Middle)
+- **DevOps / SysAdmin:** Beginner/Junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[LessNode VPN](https://lessno.de)**
+- **[accsTG Market](https://t.me/accstg11bot)**
+- **GiftParser** *(Closed)*
+- **TelegramAutoSender** *(Closed)*
+
+## 📫 Let's Connect
+- **Telegram:** [@web3transaction](https://t.me/web3transaction)
+- **Instagram:** [zoverdev](https://instagram.com/zoverdev)
