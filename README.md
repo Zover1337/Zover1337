@@ -5,6 +5,7 @@ I am a developer from Russia with a focus on Backend Engineering and Systems Adm
 ## 🛠 Skills
 - **Backend:** Python (Junior/Middle)
 - **DevOps:** Beginner/Junior
+- **Hard Skills:** configuring Xray, working with various DPI-bypassing methods
 
 ## 🚀 Projects
 - **[LessNode VPN](https://lessno.de)**
