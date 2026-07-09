@@ -7,9 +7,6 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 - **DevOps:** Beginner/Junior
 - **Hard Skills:** configuring Xray, working with various DPI-bypassing methods, working with Docker
 - **Learning:** Web
-
-<br><br>
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,docker,linux,py,windows&perline=3)](https://skillicons.dev)
 
 ## 🚀 Projects
