@@ -9,6 +9,7 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 - **Learning:** Web
   
 [![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,docker,linux,py,windows&perline=3)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=Xray+.+.+.+connected)](https://git.io/typing-svg)
 
 ## 🚀 Projects
 - **[LessNode VPN](https://lessno.de)**
@@ -19,7 +20,3 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 ## 📫 Let's Connect
 - **Telegram:** [@web3transaction](https://t.me/web3transaction)
 - **Instagram:** [zoverdev](https://instagram.com/zoverdev)
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=Xray+.+.+.+connected)](https://git.io/typing-svg)
