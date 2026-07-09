@@ -11,7 +11,6 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 [![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,docker,linux,py,windows&perline=3)](https://skillicons.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=true&width=435&lines=Xray+.+.+.+connected)](https://git.io/typing-svg)
-
 ## 🚀 Projects
 - **[LessNode VPN](https://lessno.de)**
 - **[accsTG Market](https://t.me/accstg11bot)**
