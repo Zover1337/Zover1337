@@ -8,6 +8,10 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 - **Hard Skills:** configuring Xray, working with various DPI-bypassing methods, working with Docker
 - **Learning:** Web
 
+<br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,docker,linux,py,windows&perline=3)](https://skillicons.dev)
+
 ## 🚀 Projects
 - **[LessNode VPN](https://lessno.de)**
 - **[accsTG Market](https://t.me/accstg11bot)**
@@ -17,10 +21,6 @@ I am a developer from Moscow (Russia) with a focus on Backend Engineering and Sy
 ## 📫 Let's Connect
 - **Telegram:** [@web3transaction](https://t.me/web3transaction)
 - **Instagram:** [zoverdev](https://instagram.com/zoverdev)
-
-<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,cloudflare,docker,linux,py,windows&perline=3)](https://skillicons.dev)
 
 <br><br>
 
